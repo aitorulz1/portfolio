@@ -1,0 +1,20 @@
+[
+  {
+    "category": "web",
+    "id": "web",
+    "code": "01",
+    "image": ""
+  },
+  {
+    "category": "mern",
+    "id": "mern",
+    "code": "02",
+    "image": ""
+  },
+  {
+    "category": "react",
+    "id": "react",
+    "code": "03",
+    "image": ""
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "skills": "mongoose",
+    "id": "mongoose",
+    "code": "01"
+  },
+  {
+    "skills": "express",
+    "id": "express",
+    "code": "02"
+  },
+  {
+    "skills": "react",
+    "id": "react",
+    "code": "03"
+  },
+  {
+    "skills": "node",
+    "id": "node",
+    "code": "04"
+  },
+  {
+    "skills": "redux",
+    "id": "redux",
+    "code": "05"
+  },
+  {
+    "skills": "npm",
+    "id": "npm",
+    "code": "06"
+  },
+  {
+    "skills": "github",
+    "id": "github",
+    "code": "07"
+  },
+  {
+    "skills": "html",
+    "id": "html",
+    "code": "08"
+  },
+  {
+    "skills": "css",
+    "id": "css",
+    "code": "09"
+  },
+  {
+    "skills": "wordpress",
+    "id": "wordpress",
+    "code": "10"
+  },
+  {
+    "skills": "psd",
+    "id": "psd",
+    "code": "11"
+  },
+  {
+    "skills": "uxui",
+    "id": "ux/ui",
+    "code": "12"
+  },
+  {
+    "skills": "php",
+    "id": "php",
+    "code": "13"
+  },
+  {
+    "skills": "eCommerce",
+    "id": "eCommerce",
+    "code": "14"
+  },
+  {
+    "skills": "js",
+    "id": "js",
+    "code": "15"
+  },
+  {
+    "skills": "marketing-digital",
+    "id": "marketing-digital",
+    "code": "16"
+  }
+]

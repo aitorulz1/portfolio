@@ -1,0 +1,62 @@
+[
+    {
+        "title":"Frontend Developer",
+        "company":"Stemy Energy",
+        "logo":"../jobs/icon-stemy.png",
+        "background":"",
+        "techs":"React | React Native | Typescript | Next JS | Tildwind",
+        "description":"",
+        "begin":"2004/09/01",
+        "end":"2007/09/01"
+    },
+    {
+        "title":"Frontend Developer",
+        "company":"Bitban Technologies",
+        "logo":"../jobs/icon-bitban.png",
+        "background":"",
+        "techs":"React | Vue | PHP | CSS | HTML | Twig",
+        "description":"",
+        "begin":"2004/09/01",
+        "end":"2007/09/01"
+    },
+    {
+        "title":"Frontend Developer",
+        "company":"wewebs",
+        "logo":"../jobs/icon-wewebs.png",
+        "background":"",
+        "techs":"HTML | CSS | PHP | JS | FTP | Functions | UX/UI | Design",
+        "description":"Taking care of the design and development of freelance projects always developing my own wordpress template according to previous design",
+        "begin":"2016/06/01",
+        "end":"2023/09/01"
+    },
+    {
+        "title":"Marketing Manager",
+        "company":"Quabbala",
+        "logo":"../jobs/icon-quabbala.png",
+        "background":"",
+        "techs":"Web Development | Wordpress | HTML | CSS | PHP | JS | Design | Digital Strategy | Landing Pages | Newsletters | SEO | SEM",
+        "description":"Design and development og the Digital Strategy over the offices in Spain, UK and Hong Kong. Three difeerent projects with three different goals",
+        "begin":"2004/09/01",
+        "end":"2007/09/01"
+    },
+    {
+        "title":"Marketing Manager",
+        "company":"IP Grupo",
+        "logo":"../jobs/icon-ip.png",
+        "background":"",
+        "techs":"Web Development | Wordpress | HTML | CSS | PHP | JS | Design | Digital Strategy | Landing Pages | Newsletters | SEO | SEM",
+        "description":"Development and implementation of the Marketing Onlin/Offline Plan, Web designer, developer and analytics",
+        "begin":"2004/09/01",
+        "end":"2007/09/01"
+    },
+    {
+        "title":"Marketing Manager",
+        "company":"Il SIciliano",
+        "logo":"../jobs/icon-ilsiciliano.png",
+        "background":"",
+        "techs":"Web Development | Wordpress | HTML | CSS | PHP | JS | Design | Digital Strategy | Landing Pages | Newsletters | SEO | SEM",
+        "description":"Running and implementation of the purchase control through different marketing strategies",
+        "begin":"2004/09/01",
+        "end":"2007/09/01"
+    }
+]

@@ -1,0 +1,7 @@
+.middle-container {
+  position: relative;
+  min-height: 90vh;
+  display: inherit;
+  width: 95%;
+  margin: auto;
+}

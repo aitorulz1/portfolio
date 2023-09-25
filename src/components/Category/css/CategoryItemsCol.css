@@ -1,0 +1,117 @@
+@font-face {
+  font-family: "elephant";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../../../assets/fonts/elephant.TTF") format("TTF");
+}
+
+.project-container-regular {
+  position: relative;
+  display: table;
+  width: 29.3%;
+  float: left;
+  padding: 2%;
+}
+
+.button-edit-regular {
+  width: 47%;
+  padding-top: 1%;
+  padding-left: 3%;
+  float: left;
+  color: #789489;
+  text-align: left;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.button-delete-regular {
+  width: 50%;
+  padding-top: 1%;
+  float: left;
+  color: #ffa1a1;
+  text-align: right;
+  cursor: pointer;
+}
+
+/* .main-title-regular {
+  padding: 10% 0% 15% 0%;
+  color: #fef7a6;
+  text-transform: lowercase;
+  text-align: center;
+  height: 40px;
+  line-height: 1.5;
+} */
+
+.main-title-regular {
+  padding: 30px 0 20px;
+  color: #fef7a6;
+  text-align: center;
+  height: 40px;
+  font-family: elephant;
+  line-height: 1.5;
+  font-size: 22px;
+}
+
+.edit-del-cont {
+  margin-bottom: -2px;
+  position: absolute;
+  z-index: 1;
+  width: 87%;
+  margin: 0 auto;
+}
+
+.main-descr-regular {
+  padding: 10% 0% 0% 0%;
+  font-size: 12px;
+  min-height: 55px;
+  color: #fef7a6;
+  text-transform: lowercase;
+  text-align: center;
+  line-height: 2;
+}
+
+.end-date {
+  text-align: center;
+  font-family: elephant;
+  font-size: 14px;
+  color: #fef7a6;
+  padding: 10% 0% 0% 0%;
+}
+
+@media screen and (max-width: 920px) {
+  .main-title-regular {
+    height: 40px;
+    line-height: 1.5;
+  }
+
+  .main-descr-regular {
+    padding: 10% 0% 15% 0%;
+  }
+
+  .project-container-regular {
+    position: relative;
+    display: table;
+    width: 45.3%;
+    float: left;
+    padding: 2% 2%;
+  }
+}
+
+@media screen and (max-width: 460px) {
+  .project-container-regular {
+    position: relative;
+    display: table;
+    width: 96%;
+    float: left;
+    padding: 2% 2%;
+  }
+
+  .end-date {
+    font-size: 16px;
+    padding: 5% 0% 0% 0%;
+  }
+
+  .main-descr-regular {
+    padding: 7.5% 0% 5% 0%;
+  }
+}

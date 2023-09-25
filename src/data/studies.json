@@ -1,0 +1,65 @@
+[
+    {
+        "school":"Ironhack",
+        "grade":"Web Development",
+        "logo":"../studies/iron-last.png",
+        "description":"Programmin Bootcamp. Last for 6 months where you learn some different tech skills in order to find logic of app building",
+        "learned":"React, JS, Mongoose, Express, Hooks, States",
+        "begin":"2021/08/01",
+        "end":"2022/03/01"
+    },
+    {
+        "school":"CICE",
+        "grade":"Master of Computer Applications (M.C.A)",
+        "logo":"../studies/cice.png",
+        "description":"Understanding of JS basics and learning how to build your own wordpress theme",
+        "learned":"PHP & MySQL",
+        "begin":"2017/09/01",
+        "end":"2016/09/01"
+    },
+    {
+        "school":"CICE",
+        "grade":"Master",
+        "logo":"../studies/cice.png",
+        "description":"CICE, the leading Training School in New Technologies with more than 40 years certifying the future of more than 35,000 students.",
+        "learned":"Graphic & Web Design",
+        "begin":"2015/09/01",
+        "end":"2014/09/01"
+    },
+    {
+        "school":"CICE",
+        "grade":"Master",
+        "logo":"../studies/cice.png",
+        "description":"CICE, the leading Training School in New Technologies with more than 40 years certifying the future of more than 35,000 students.",
+        "learned":"Digital Marketing",
+        "begin":"2013/09/01",
+        "end":"2012/09/01"
+    },
+    {
+        "school":"Griffith",
+        "grade":"Bachelor Business | Major Marketing",
+        "logo":"../studies/griffith.png",
+        "description":"Griffith Uni ranks in the top 2 percent of universities globally with 50000 students spanning six campuses in South East Queensland, Australia.",
+        "learned":"English",
+        "begin":"2010/09/01",
+        "end":"2008/09/01"
+    },
+    {
+        "school":"CENP",
+        "grade":"Diploma in Marketing",
+        "logo":"../studies/cenp.png",
+        "description":"Private teaching entity founded in 1957 in Madrid, with the objective of offering higher education to Society to present alternatives to traditional university studies.",
+        "learned":"Marketing, Publicity, ",
+        "begin":"2004/09/01",
+        "end":"2007/09/01"
+    },
+    {
+        "school":"Maravillas",
+        "grade":"Colegio",
+        "logo":"../studies/maravillas.png",
+        "description":"School located in the central area of ​​Madrid. Infant, primary, secondary and high school. Wide offer in extracurricular activities.",
+        "learned":"Bachillerato",
+        "begin":"1990/09/01",
+        "end":"2003/09/01"
+    }
+]
