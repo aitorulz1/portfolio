@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.75e01c4a.chunk.css",
+    "main.js": "/static/js/main.1058d818.chunk.js",
+    "main.js.map": "/static/js/main.1058d818.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.1e71ac0c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.1e71ac0c.js.map",
+    "static/js/2.0ff4fef8.chunk.js": "/static/js/2.0ff4fef8.chunk.js",
+    "static/js/2.0ff4fef8.chunk.js.map": "/static/js/2.0ff4fef8.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.75e01c4a.chunk.css.map": "/static/css/main.75e01c4a.chunk.css.map",
+    "static/js/2.0ff4fef8.chunk.js.LICENSE.txt": "/static/js/2.0ff4fef8.chunk.js.LICENSE.txt",
+    "static/media/Menu.css": "/static/media/Autograf_PersonalUseOnly.92156804.ttf",
+    "static/media/Resume-AitorArina.6cf0ced9.pdf": "/static/media/Resume-AitorArina.6cf0ced9.pdf",
+    "static/media/aa.be5492d7.png": "/static/media/aa.be5492d7.png",
+    "static/media/ByCategory.css": "/static/media/slider-on.edd9c5a4.png",
+    "static/media/Contact.css": "/static/media/contact-map.00552f34.png",
+    "static/media/CategoryItemsCol.css": "/static/media/elephant.80b86820.TTF",
+    "static/media/icon-mern.af0ff0d9.png": "/static/media/icon-mern.af0ff0d9.png",
+    "static/media/icon-react.2530a39a.png": "/static/media/icon-react.2530a39a.png",
+    "static/media/icon-wp.b885a8f6.png": "/static/media/icon-wp.b885a8f6.png",
+    "static/media/logo-psd-last.b112cb12.png": "/static/media/logo-psd-last.b112cb12.png",
+    "static/media/main-play-icon.65c1fdfa.png": "/static/media/main-play-icon.65c1fdfa.png",
+    "static/media/main-stop-icon.3c23de80.png": "/static/media/main-stop-icon.3c23de80.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1e71ac0c.js",
+    "static/js/2.0ff4fef8.chunk.js",
+    "static/css/main.75e01c4a.chunk.css",
+    "static/js/main.1058d818.chunk.js"
+  ]
+}
